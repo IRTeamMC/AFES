@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "afes",
+  "version": "${version}",
+  "name": "AFES",
+  "description": "Another Fabric Energy System (AFES) is an attempt to make a universal energy system for Fabric mods.",
+  "authors": [
+    "Industrial Renovation Team"
+  ],
+  "contact": {
+    "sources": "https://github.com/IRTeamMC/AFES"
+  },
+  "license": "MIT License",
+  "icon": "assets/afes/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.irteammc.afes.AFES"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.10.8",
+    "fabric": "*",
+    "minecraft": "1.16.4"
+  },
+  "custom": {
+    "modmenu:api": true
+  }
+}
