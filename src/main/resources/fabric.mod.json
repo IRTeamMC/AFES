@@ -8,7 +8,9 @@
     "Industrial Renovation Team"
   ],
   "contact": {
-    "sources": "https://github.com/IRTeamMC/AFES"
+    "issues": "https://github.com/IRTeamMC/AFES/issues",
+    "sources": "https://github.com/IRTeamMC/AFES",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/afes"
   },
   "license": "MIT License",
   "icon": "assets/afes/icon.png",
